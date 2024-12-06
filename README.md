@@ -1,4 +1,4 @@
-# Thoga Kade Vegetable Shop Management System -CLI
+# Thoga Kade Shop Management System -CLI
 
 ## Overview
 A command-line application for managing a vegetable shop inventory, orders, and reporting.
