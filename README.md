@@ -8,7 +8,6 @@ A command-line application for managing a vegetable shop inventory, orders, and 
 - Order processing with basic discounts
 - JSON-based data persistence
 - Report generation
-- Interactive CLI interface
 
 ## Setup Instructions
 1. Install Dart SDK
