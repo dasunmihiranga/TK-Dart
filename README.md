@@ -32,8 +32,3 @@ A command-line application for managing a vegetable shop inventory, orders, and 
 - Custom exception handling
 - Supports multiple vegetable categories
 
-## Future Improvements
-- Enhanced reporting
-- More robust error handling
-- GUI interface
-- Advanced inventory tracking
